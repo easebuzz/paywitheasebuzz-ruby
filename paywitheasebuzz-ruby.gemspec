@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name        = 'paywitheasebuzz-ruby'
-    s.version     = '0.0.1'
+    s.version     = '0.0.2'
     s.summary     = "Pay with easebuzz"
     s.description = "Ruby gem for easebuzz payment process."
     s.authors     = ["Karan Bhutwala"]
@@ -13,6 +13,6 @@ Gem::Specification.new do |s|
       "lib/paywitheasebuzz-ruby/helper.rb"
     ]
     s.homepage    =
-      'https://rubygems.org/gems/hola'
+      'https://github.com/easebuzz/paywitheasebuzz-ruby'
     s.license       = 'MIT'
 end
